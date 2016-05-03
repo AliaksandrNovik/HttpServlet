@@ -1,0 +1,28 @@
+
+
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.war
+*.ear
+<<<<<<< HEAD
+* .classpath
+*.txt
+*.html
+=======
+.classpath
+
+*.project
+/codecover
+
+/.settings
+/.metadata
+/bin
+.DS_Store
+/logs
+/resources
+/test-output
+/target
+*.app
+*.apk
